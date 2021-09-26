@@ -1,0 +1,90 @@
+
+body > h1 {
+    text-align: center;
+}
+
+
+main {
+    background-color:rgb(255, 255, 115);
+    max-width: 370px;
+    min-width: 360;
+    display: block;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.774);
+    padding: 10px;
+    padding-bottom: 20px;
+   
+}
+
+
+body {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(161, 155, 155));
+}
+
+#resultado {
+    background-color: black;
+}
+
+.nome {
+    background-color: white;
+    height: 35px;
+    border-radius: 8px;
+    text-align: center;
+   
+    color: black
+    
+    
+}
+
+.altura {
+    border-radius: 8px;
+    background-color: white;
+    height: 35px;
+    text-align: center;
+   
+    color: black
+}
+
+.peso {
+    border-radius: 8px;
+    background-color: white;
+    height: 35px;
+    text-align: center;
+    color: black
+}
+
+.calcular {
+    background-color: white;
+    height: 35px;
+    width: 250px;
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    border-radius: 10px;
+    
+
+}
+
+
+
+.resultado {
+    background-color: black;
+    color: yellow;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
